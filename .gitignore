@@ -1,3 +1,5 @@
 helpers/creds.json
+output/*
+testsuites/output/*
 *.html
 *.xml
